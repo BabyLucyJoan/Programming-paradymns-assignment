@@ -1,0 +1,8 @@
+Imperative programming
+Procedural programming
+Functional programming
+Declarative programming
+Object-oriented programming
+Logic programming
+Parallel processing approach
+Database processing approach
